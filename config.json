@@ -1,0 +1,27 @@
+{
+  "brand_guidelines": {
+    "colors": ["#1DA1F2", "#14171A", "#657786"],
+    "style": "professional",
+    "tone": "friendly",
+    "visual_preferences": {
+      "image_style": "modern",
+      "composition": "balanced",
+      "color_scheme": "brand_colors"
+    }
+  },
+  "generation_params": {
+    "num_posts": 3,
+    "post_types": ["promotional", "engagement", "educational"],
+    "target_audience": "tech-savvy professionals",
+    "content_goals": [
+      "increase brand awareness",
+      "drive engagement",
+      "showcase expertise"
+    ],
+    "hashtag_strategy": {
+      "num_hashtags": 3,
+      "style": "subtle"
+    }
+  },
+  "platforms": ["instagram", "linkedin", "twitter"]
+}

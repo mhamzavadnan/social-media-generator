@@ -1,0 +1,31 @@
+{
+  "existing_posts": [
+    {
+      "platform": "instagram",
+      "content": "🚀 Excited to unveil our latest innovation! Our new AI-powered solution is revolutionizing how businesses handle data analytics. #TechInnovation #AI #FutureOfWork",
+      "performance": {
+        "likes": 250,
+        "comments": 45,
+        "shares": 30
+      }
+    },
+    {
+      "platform": "linkedin",
+      "content": "We're proud to announce that our team has achieved a 98% customer satisfaction rate this quarter. Thank you to our amazing clients for their continued trust and support! 🏆 #CustomerSuccess #BusinessGrowth",
+      "performance": {
+        "likes": 180,
+        "comments": 28,
+        "shares": 15
+      }
+    },
+    {
+      "platform": "twitter",
+      "content": "💡 Pro Tip: Start your day with a clear goal in mind. Our productivity suite helps you track and achieve your daily objectives efficiently. Try it free for 30 days!",
+      "performance": {
+        "likes": 120,
+        "comments": 15,
+        "retweets": 25
+      }
+    }
+  ]
+}
